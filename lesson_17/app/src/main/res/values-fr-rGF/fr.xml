@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lesson_17</string>
+    <string name="firstscreen">Premier écran</string>
+    <string name="secondscreen">Deuxième écran</string>
+    <string name="thirdscreen">Troisième écran</string>
+    <string name="nexttoscreen">Suivant</string>
+</resources>
