@@ -20,6 +20,7 @@
     </androidx.appcompat.widget.AppCompatImageView>
 
     <TextView
+        style="@style/StringStyle"
         android:id="@+id/onboardingText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -32,6 +33,7 @@
         app:layout_constraintVertical_bias="0.527" />
 
     <androidx.appcompat.widget.AppCompatButton
+        style="@style/MyStyle"
         android:text="@string/nexttoscreen"
         android:textSize="24sp"
         android:id="@+id/nextButton"

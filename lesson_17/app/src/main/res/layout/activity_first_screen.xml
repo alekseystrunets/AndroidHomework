@@ -19,6 +19,7 @@
     </androidx.appcompat.widget.AppCompatImageView>
 
     <TextView
+        style="@style/StringStyle"
         android:id="@+id/onboardingText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -35,7 +36,7 @@
         style="@style/MyStyle"
         android:layout_width="227dp"
         android:layout_height="53dp"
-        android:layout_marginBottom="84dp"
+        android:layout_marginBottom="64dp"
         android:text="@string/nexttoscreen"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
