@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">lesson_17</string>
-    <string name="firstscreen"> First screen</string>
-    <string name="secondscreen">Second screen</string>
-    <string name="thirdscreen">Third screen</string>
-    <string name="nexttoscreen">Next</string>
-</resources>
